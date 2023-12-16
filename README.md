@@ -1,0 +1,2 @@
+# slackapp-chatgpt
+ストリーム形式で履歴を踏まえた応答をするslackアプリの実装
